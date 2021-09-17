@@ -1,0 +1,9 @@
+$breakpoint: 768px;
+
+$format:
+ (
+     mobile: 'max-width: #{$breakpoint}',
+     desktop: 'min-width: #{$breakpoint}'
+
+ );
+

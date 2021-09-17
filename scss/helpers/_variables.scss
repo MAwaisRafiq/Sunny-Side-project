@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:wght@600;700&display=swap');
+// The designs were created to the following widths:
+
+// - Mobile: 375px
+// - Desktop: 1440px
+
+// ## Colors
+
+// ### Primary
+$clr-red: hsl(7, 99%, 70%);
+$clr-yellow: hsl(51, 100%, 49%);
+$clr-graphic-design-text: hsl(167, 40%, 24%);
+$clr-photography-text: hsl(198, 62%, 26%);
+$clr-footer: hsl(168, 34%, 41%);
+
+// ### Neutral
+
+$clr-neutral-vd-desaturated-blue: hsl(212, 27%, 19%);
+$clr-vd-grayish-blue: hsl(213, 9%, 39%);
+$clr-dark-grayish-blue: hsl(232, 10%, 55%);
+$clr-grayish-blue: hsl(210, 4%, 67%);
+$clr-white: hsl(0, 0%, 100%);
+
+// ## Typography
+
+// ### Body Copy
+
+$ff-size: 18px;
+
+// ### Font
+
+
+$ff-barlow: 'Barlow', sans-serif;
+$ff-fraunces: 'Fraunces', serif;
+// - Family: [Barlow](https://fonts.google.com/specimen/Barlow)
+// - Weights: 600
+// - Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
+// - Weights: 700, 900
+
+// ## Icons
+
+// We provide the required social icons. But, if you prefer, you can use a font icon library. Some suggestions can be found below:
+
+// - [Font Awesome](https://fontawesome.com)
+// - [IcoMoon](https://icomoon.io)
+// - [Ionicons](https://ionicons.com)

@@ -1,0 +1,21 @@
+@keyframes mobile_popup{
+    from{
+        left: -10rem;
+        opacity: 0;
+    }
+    to{
+        left: 0;
+        opacity: 1;
+    }
+}
+
+@keyframes overlay_popup{
+    from{
+        top: -100rem;
+        opacity: 0;
+    }
+    to{
+        top: 0;
+        opacity: 1;
+    }
+}

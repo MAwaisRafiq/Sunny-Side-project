@@ -1,0 +1,8 @@
+
+@mixin mq($screen) {
+
+    @media (#{map-get($format,$screen)}) {
+        @content;
+    }
+    
+}
