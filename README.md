@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/MAwaisRafiq/PROJECT
-- Live Site URL: https://mawaisrafiq.github.io/PROJECT/
+- Solution URL: https://github.com/MAwaisRafiq/Sunny-Side-project
+- Live Site URL: https://mawaisrafiq.github.io/Sunny-Side-project/
 
 ## My process
 
