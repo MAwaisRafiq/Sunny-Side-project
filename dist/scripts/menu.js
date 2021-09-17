@@ -3,6 +3,7 @@ const overlay = document.getElementById("overlay");
 const navigation = document.getElementById("navigation");
 const body = document.getElementById("body");
 
+
 var open = false;
 
 Popup_Mobile_Menu(open);
@@ -12,6 +13,8 @@ hamburger.addEventListener("click",x =>
     open = !open;
     Popup_Mobile_Menu(open);
 })
+
+
 
 
 function Popup_Mobile_Menu(state){
@@ -30,6 +33,7 @@ function Popup_Mobile_Menu(state){
             navigation.classList.remove("mobile__menu");
             navigation.classList.add("mobile__toggle");
         }
+        
 
     }else
     {
@@ -46,5 +50,6 @@ function Popup_Mobile_Menu(state){
             navigation.classList.add("mobile__menu");
             navigation.classList.remove("mobile__toggle");
         }
+       
     }
 }
