@@ -517,7 +517,7 @@ header{
            flex-wrap: wrap;
     }
     .images{
-        flex-basis: 100%;
+        //flex-basis: 100%;
         img{
             max-width: 100%;
             vertical-align: text-bottom;
@@ -526,7 +526,7 @@ header{
             flex-basis: 50%;
             
             img{
-                max-width: 50vw;
+                max-width: 100%;
                 height: auto;
                 vertical-align: text-bottom;
             }

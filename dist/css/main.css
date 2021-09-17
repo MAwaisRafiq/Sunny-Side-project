@@ -606,11 +606,6 @@ header .navigation nav > * {
   }
 }
 
-.gallery .images {
-  -ms-flex-preferred-size: 100%;
-      flex-basis: 100%;
-}
-
 .gallery .images img {
   max-width: 100%;
   vertical-align: text-bottom;
@@ -622,7 +617,7 @@ header .navigation nav > * {
         flex-basis: 50%;
   }
   .gallery .images img {
-    max-width: 50vw;
+    max-width: 100%;
     height: auto;
     vertical-align: text-bottom;
   }
